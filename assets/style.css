@@ -44,14 +44,14 @@ li {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/banner/fireworks-web-banner.jpg");
 
   /* Set a specific height */
-  height: 200px;
+  height: 222px;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-
+  margin-top: 10px;
 
 }
 
