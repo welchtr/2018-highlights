@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+}
+
+.header {
+  background: black;
+  overflow: hidden;
+}
+
+
+/* unordered list box (area that surrounds navbar links) */
+ ul {
+  list-style-type: none;
+  float: right;
+  list-style-position: inside;
+}
+
+/* list - navbar links*/
+li {
+  color: white;
+  float: left;
+  padding-right: 10px; /* controls space between links*/
+}
+
+.header a {
+  color: white;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
