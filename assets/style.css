@@ -78,9 +78,22 @@ hr {
 }
 
 .moments-container{
-  height: 400px;
+  height: 270px;
 }
 
 .moments-text-container{
   text-align: center;
+}
+
+.concertsImage{
+  background-image: url("images/moment-images/Concerts.png");
+  height: 150px;
+  width: 150px;
+  margin: 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+
 }
