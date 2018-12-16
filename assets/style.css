@@ -105,3 +105,21 @@ hr {
   top: 160px;
   left: 45px;
 }
+
+.festivalsImage{
+  background-image: url("images/moment-images/festivals.png");
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  left: 550px;
+  top: 350px;
+  margin-bottom: 45px;
+}
+
+.festivalsImage-Text{
+  background-color: white;
+  align: center;
+  position: absolute;
+  top: 160px;
+  left: 45px;
+}
