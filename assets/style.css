@@ -23,12 +23,11 @@ li {
   padding-right: 10px; /* controls space between links*/
 }
 
-.navbarLinks{
-  text-decoration: none;
-}
 
 .header a {
   color: white;
+  text-decoration: none;
+  
 }
 
 .footer {
