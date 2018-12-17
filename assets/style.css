@@ -23,8 +23,14 @@ li {
   padding-right: 10px; /* controls space between links*/
 }
 
+
 .header a {
   color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
 }
 
 .footer {
